@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BIGU</string>
+
+    <string name="login">ENTRAR</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="newMember">Cadastre-se agora.</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="name">Nome</string>
+    <string name="title_activity_sign_in">Novo Usuário</string>
+    <string name="title_activity_login">Login</string>
+    <string name="user">Usuário</string>
+    <string name="create">Cadastrar</string>
+    <string name="invalidLogin">Login e / ou senha inválidos</string>
+    <string name="userCreated">Usuário cadastrado com sucesso</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="campoObrigatorio">Campo Obrigatório</string>
+    <string name="facebook_app_id">410632615802410</string>
+    <string name="sair">Sair</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Saindo agora</item>
+        <item >Motorista</item>
+        <item >Carona</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

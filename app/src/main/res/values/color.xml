@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#ff5500</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="date_color">#999999</color>
+    <color name="black">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="blue">#0066cc</color>
+    <color name="gold">#e6b121</color>
+    <color name="blueback">#99FFFF</color>
+    <color name="articlecolor">#3399FF</color>
+    <color name="article_title">#3399FF</color>
+    <color name="cachecolor">#8ad0e8</color>
+    <color name="backgroundDark">#3F7230</color>
+
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+</resources>
